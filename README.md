@@ -1,1 +1,0 @@
-# Hacktify-intern
